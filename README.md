@@ -6,16 +6,6 @@
   <p>A brief description of your project goes here. Describe what the project does, its purpose, & any notable features or benefits.</p>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
-  <a href="https://github.com/kirakenjiro/Blueprint/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" /></a>
-  <img src="https://img.shields.io/badge/version-1.0.0-rebeccapurple" alt="Version" />
-  <img src="https://img.shields.io/github/commit-activity/m/kirakenjiro/Blueprint" alt="Commits per month" />
-  <a href="https://github.com/kirakenjiro/Blueprint/issues"><img src="https://img.shields.io/github/issues/kirakenjiro/Blueprint" alt="Open Issues" /></a>
-  <a href="https://github.com/kirakenjiro/Blueprint/pulls"><img src="https://img.shields.io/github/issues-pr/kirakenjiro/Blueprint" alt="Open Pull Requests" /></a>
-  <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Project Status: Active" />
-</div>
-
 <div align="center">  <h2>🔗 Quick Links</h2>
   <a href="#"><strong>🎬 View Demo</strong></a> &bull;
   <a href="#"><strong>🐛 Report Bug</strong></a> &bull;
