@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/github/commit-activity/m/kirakenjiro/Blueprint" alt="Commits per month" />
   <a href="https://github.com/kirakenjiro/Blueprint/issues"><img src="https://img.shields.io/github/issues/kirakenjiro/Blueprint" alt="Open Issues" /></a>
   <a href="https://github.com/kirakenjiro/Blueprint/pulls"><img src="https://img.shields.io/github/issues-pr/kirakenjiro/Blueprint" alt="Open Pull Requests" /></a>
-  <a href="https://github.com/kirakenjiro/Blueprint/graphs/contributors"><img src="https://img.shields.io/github/contributors/kirakenjiro/Blueprint" alt="Contributors" /></a>
   <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Project Status: Active" />
 </div>
 
