@@ -101,7 +101,7 @@ def factorial(n):
 print(factorial(5)) # Output: 120
 </code></pre>
 
-  </div>  <h3>🎯 Getting Started</h3>
+  </div><h3>🎯 Getting Started</h3>
   <ol>
     <li>📥 Clone the repository</li>
     <li>📋 Install dependencies</li>
