@@ -51,11 +51,7 @@
 <div id="important-notices">
   <h2>⚠️ Important Notices</h2>
   
-  > [!WARNING]
-  > Add any important notices or warnings regarding the project here. This section may include disclaimers, versioning notes, or critical information that users must know.
-  
-  > [!NOTE]
-  > This is a template README. Please customize all sections with your actual project information.
+  <p>Add any important notices or warnings regarding the project here. This section may include disclaimers, versioning notes, or critical information that users must know.</p>
   
 </div>
 
@@ -102,8 +98,9 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
-print(factorial(5))  # Output: 120
-    </code></pre>
+print(factorial(5)) # Output: 120
+</code></pre>
+
   </div>  <h3>🎯 Getting Started</h3>
   <ol>
     <li>📥 Clone the repository</li>
@@ -170,7 +167,6 @@ cd yourproject
 
 <div align="center" id="support-the-project">
   <h2>💖 Support the Project</h2>
-  <hr />
   <p>Your support keeps the project alive & improving. Consider helping by donating or contributing to the documentation.</p>
   <ul style="text-align: left; display: inline-block;">
     <li><strong>💰 Donation:</strong> Details on how to donate or support the project financially.</li>
@@ -458,8 +454,6 @@ cd yourproject
   </table>
 </div>
 
-<hr />
-
 <div align="center" id="acknowledgements">
   <h2>🙏 Acknowledgements</h2>
   <ul style="text-align: left; display: inline-block;">
@@ -480,10 +474,6 @@ cd yourproject
   </div>
 </div>
 
-<div align="center">
-  <p>Made with HTML & ❤️ by Kira Kenjiro</p>
-</div>
-
 ---
 
 <div align="center">
@@ -492,6 +482,6 @@ cd yourproject
   </sub></p>
   
   <p><sub>
-    <em>© 2024-2025 Your Project Name. All rights reserved. Made with ❤️ for the open source community.</em>
+    <em>© 2024-2025 Your Project Name. All rights reserved. Made with ❤️ by Kira Kenjiro for the open source community.</em>
   </sub></p>
 </div>
